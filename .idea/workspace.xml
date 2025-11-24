@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53532054-e8d1-4ecc-898e-07cabfeaf472" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Actividades/actividad_condicionales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ciclo for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condicional_if_anidado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividades/actividad_ciclos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciclo while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciclo for.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciclo for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,11 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Operadores_aritmeticos.executor": "Run",
+    "Python.actividad_ciclos.executor": "Run",
     "Python.actividad_condicionales.executor": "Run",
     "Python.actividad_operadores.executor": "Run",
     "Python.ciclo for.executor": "Run",
+    "Python.ciclo while.executor": "Run",
     "Python.comentarios.executor": "Run",
     "Python.condicional_elif.executor": "Run",
     "Python.condicional_if_anidado.executor": "Run",
@@ -75,7 +77,30 @@
       <recent name="C:\Users\mlope\OneDrive\Escritorio\MLopezCastro\Python-Curso-Edutin\Actividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ciclo for">
+  <component name="RunManager" selected="Python.actividad_ciclos">
+    <configuration name="actividad_ciclos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Python_Edutin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Actividades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actividades/actividad_ciclos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="actividad_condicionales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Python_Edutin" />
       <option name="ENV_FILES" value="" />
@@ -122,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condicional_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ciclo while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Python_Edutin" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +161,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicional_elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciclo while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,36 +193,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condicionales_simples (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Python_Edutin" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionales_simples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.actividad_ciclos" />
+        <item itemvalue="Python.ciclo while" />
         <item itemvalue="Python.ciclo for" />
         <item itemvalue="Python.actividad_condicionales" />
         <item itemvalue="Python.condicional_if_anidado" />
-        <item itemvalue="Python.condicional_elif" />
-        <item itemvalue="Python.condicionales_simples (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,7 @@
       <workItem from="1763151794898" duration="1338000" />
       <workItem from="1763985622204" duration="323000" />
       <workItem from="1763986246292" duration="389000" />
-      <workItem from="1763987054206" duration="9221000" />
+      <workItem from="1763987054206" duration="13605000" />
     </task>
     <servers />
   </component>
@@ -239,13 +241,15 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_ciclos.coverage" NAME="actividad_ciclos Coverage Results" MODIFIED="1764001939453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_operadores.coverage" NAME="actividad_operadores Coverage Results" MODIFIED="1763989683705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
     <SUITE FILE_PATH="coverage/Curso_Python_Edutin$variable.coverage" NAME="variables Coverage Results" MODIFIED="1763054718580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$operadores_relacionales.coverage" NAME="operadores relacionales Coverage Results" MODIFIED="1763987831264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$operadores_de_asignación.coverage" NAME="operadores de asignación Coverage Results" MODIFIED="1763988279188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_condicionales.coverage" NAME="actividad_condicionales Coverage Results" MODIFIED="1763995369819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
-    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$ciclo_for.coverage" NAME="ciclo for Coverage Results" MODIFIED="1763996081263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$ciclo_for.coverage" NAME="ciclo for Coverage Results" MODIFIED="1763997708984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Edutin$comentarios.coverage" NAME="comentarios Coverage Results" MODIFIED="1763152103947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$ciclo_while.coverage" NAME="ciclo while Coverage Results" MODIFIED="1763998689820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$condicional_elif.coverage" NAME="condicional_elif Coverage Results" MODIFIED="1763991884692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$condicionales_y_ciclos.coverage" NAME="condicionales y ciclos Coverage Results" MODIFIED="1763990481249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$condicionales_simples__1_.coverage" NAME="condicionales_simples (1) Coverage Results" MODIFIED="1763991068229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
