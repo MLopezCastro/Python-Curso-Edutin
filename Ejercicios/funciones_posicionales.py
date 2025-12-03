@@ -24,9 +24,12 @@ def lenguaje(nombre, **kwargs):
 
     print("Información:")
     contador = 0
+
+    print(type(kwargs))
+
     for clave in kwargs:
         contador += 1
-        print(f"Tu {contador} lenguaje favorito es {kwargs[clave]}")
+        print(f"Tu {contador} lenguaje favorito es: {kwargs[clave]}")
 
 lenguaje("Marcelo",lenguaje1 = "Python",lenguaje2 = "PBI",lenguaje3 = "SQL")
 
