@@ -38,5 +38,10 @@ for i in lista:
     print(i)
 
 
+lista2 = [1,4,5,7,9,"Hola"]
+print(lista2.index(7)) #me da índice, 3
+
+
+
 
 
