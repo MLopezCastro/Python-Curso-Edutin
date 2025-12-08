@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53532054-e8d1-4ecc-898e-07cabfeaf472" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicios/clases_y_objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios/encapsulamiento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividades/actividad_poo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/polimorfismo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
     "Python.actividad_estructuras_datos.executor": "Run",
     "Python.actividad_funciones.executor": "Run",
     "Python.actividad_operadores.executor": "Run",
+    "Python.actividad_poo.executor": "Run",
     "Python.ciclo for.executor": "Run",
     "Python.ciclo while.executor": "Run",
     "Python.clases_y_objetos.executor": "Run",
@@ -61,6 +61,7 @@
     "Python.operadores de asignación.executor": "Run",
     "Python.operadores lógicos.executor": "Run",
     "Python.operadores relacionales.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
     "Python.tuplas.executor": "Run",
     "Python.variable.executor": "Run",
     "Python.variables.executor": "Run",
@@ -88,8 +89,8 @@
       <recent name="C:\Users\mlope\OneDrive\Escritorio\MLopezCastro\Python-Curso-Edutin\Actividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.herencia">
-    <configuration name="actividad_estructuras_datos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.actividad_poo">
+    <configuration name="actividad_poo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Python_Edutin" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actividades/actividad_estructuras_datos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actividades/actividad_poo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,29 +128,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/clases_y_objetos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="conjuntos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Python_Edutin" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/conjuntos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,13 +182,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Python_Edutin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/polimorfismo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.actividad_poo" />
+        <item itemvalue="Python.polimorfismo" />
         <item itemvalue="Python.herencia" />
         <item itemvalue="Python.encapsulamiento" />
         <item itemvalue="Python.clases_y_objetos" />
-        <item itemvalue="Python.actividad_estructuras_datos" />
-        <item itemvalue="Python.conjuntos" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +259,7 @@
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$funciones_posicionales.coverage" NAME="funciones_posicionales Coverage Results" MODIFIED="1764797484078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$listas.coverage" NAME="listas Coverage Results" MODIFIED="1764802184086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejercicios" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_condicionales.coverage" NAME="actividad_condicionales Coverage Results" MODIFIED="1763995369819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
+    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$polimorfismo.coverage" NAME="polimorfismo Coverage Results" MODIFIED="1765202182597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejercicios" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$condicionales_y_ciclos.coverage" NAME="condicionales y ciclos Coverage Results" MODIFIED="1763990481249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$condicionales_simples__1_.coverage" NAME="condicionales_simples (1) Coverage Results" MODIFIED="1763991068229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$funciones_parametros.coverage" NAME="funciones_parametros Coverage Results" MODIFIED="1764794659215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -265,6 +267,7 @@
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_estructuras_datos.coverage" NAME="actividad_estructuras_datos Coverage Results" MODIFIED="1764883455021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
     <SUITE FILE_PATH="coverage/Curso_Python_Edutin$Operadores_aritmeticos.coverage" NAME="Operadores_aritmeticos Coverage Results" MODIFIED="1763152391148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Edutin$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1763052864202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_poo.coverage" NAME="actividad_poo Coverage Results" MODIFIED="1765202484943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$tuplas.coverage" NAME="tuplas Coverage Results" MODIFIED="1764802908231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejercicios" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$herencia.coverage" NAME="herencia Coverage Results" MODIFIED="1765201380637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejercicios" />
     <SUITE FILE_PATH="coverage/Python_Curso_Edutin$actividad_ciclos.coverage" NAME="actividad_ciclos Coverage Results" MODIFIED="1764001939453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actividades" />
